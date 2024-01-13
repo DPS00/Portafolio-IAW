@@ -5,8 +5,7 @@ import NewsLetter from './pages/NewsLetter.jsx';
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Navigate,
+  Route
 } from "react-router-dom";
 
 
